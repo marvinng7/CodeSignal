@@ -1,3 +1,3 @@
 # CodeSignal
 
-Ejercicios resueltos de [CodeSignal](https://github.com/marvinng7).
+Ejercicios resueltos de [CodeSignal](https://app.codesignal.com/profile/marvin_n_ywz).
