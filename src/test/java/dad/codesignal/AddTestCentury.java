@@ -35,4 +35,14 @@ public class AddTestCentury {
 		assertEquals(21,tjb.century(2022));
 	}
 	
+	@Test
+	public void test5() {
+		assertEquals(1,tjb.century(45));
+	}
+	
+	@Test
+	public void test6() {
+		assertEquals(1,tjb.century(8));
+	}
+	
 }
